@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=3000&pause=500&color=00FFFF&background=2D3436&center=true&vCenter=true&width=500&lines=¡Hello!👋;I'm+Ashly+Nicole✨;Trainee+Developer💻" alt="Título animado" />
 </div>
