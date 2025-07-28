@@ -41,13 +41,11 @@
 
 ## 🧠 Habilidades blandas
 
-- Trabajo en equipo 🤝  
-- Gestión del tiempo ⏳  
+- Trabajo en equipo 🤝 
 - Resolución de problemas 🧩  
 - Pensamiento lógico y crítico 🧠 
 - Adaptabilidad al cambio ⚡ 
-- Organización y responsabilidad 📅  
-- Comunicación clara 💬  
+- Organización y responsabilidad 📅
 
 ---
 
