@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ashly Nicole Pérez
+# 👋 ¡Hola! Soy Ashly Nicole Pérez López
 
 ## 🧠 Sobre mí
 
