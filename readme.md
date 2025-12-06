@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Ashly Nicole Pérez López
 
-## 🧠 Sobre mí
+## Sobre mí
 
 🎓 Estudio **Ingeniería de Software** y tengo formación técnica en sistemas.    
 🌍 Soy de la ciudad de **Cúcuta, Colombia**.  
@@ -59,8 +59,10 @@
 ## 📫 Contactate conmigo
 
 Estoy abierta a colaborar en proyectos, ideas o aprendizaje conjunto.
+---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nicole_958/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashlynicole1306@gmail.com)
-- 🌐 Visita mi portafolio: [Haz clic aquí](https://portafolio-digital-ashly.vercel.app/)
+
+ 🌐 Visita mi portafolio: [Haz clic aquí](https://portafolio-digital-ashly.vercel.app/)
 
 
